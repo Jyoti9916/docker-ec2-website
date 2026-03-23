@@ -97,7 +97,7 @@ Docker Deployment Successful 🚀
 Hosted on AWS EC2
 Created by Jyoti
 ```
-
+![Output](https://raw.githubusercontent.com/Jyoti9916/docker-ec2-website/main/output.PNG)
 ---
 
 ## 📂 Project Structure
